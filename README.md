@@ -1,5 +1,5 @@
 # COVID-19 future prediction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karfly/covid19-future-prediction/blob/master/covid19_future_prediction.ipynb)
 
 *Disclaimer:* all predictions are just predictions and can have nothing in common with reality.
 
@@ -20,9 +20,10 @@ pip install requests numpy matplotlib
 ## Run
 All code is written in Jupyter Notebook. Just run `covid19_future_prediction.ipynb` and change `base_location` variable to choose a country you want to generate a prediction for.
 
+Or you can easily run the notebook in your browser: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karfly/covid19-future-prediction/blob/master/covid19_future_prediction.ipynb)
+
+
 The plots will be drawn in the notebook and also saved to `./results` directory.
 
 ## Contributors
  - [Karim Iskakov](https://github.com/karfly)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karfly/covid19-future-prediction/blob/master/covid19_future_prediction.ipynb)
