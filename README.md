@@ -11,15 +11,14 @@ Top-1 fututre prediction for Russia is Belguim dynamics (02 April 2020):
 ![](docs/example.png)
 
 ## Install requirements
-```console
+```bash
 pip install requests numpy matplotlib
 ```
 
 ## Run
-All code is written in Jupyter Notebook. Just run `covid19_prediction.ipynb` and change `base_location` variable to choose a country you want to generate a prediction for.
+All code is written in Jupyter Notebook. Just run `covid19_future_prediction.ipynb` and change `base_location` variable to choose a country you want to generate a prediction for.
 
 The plots will be drawn in the notebook and also saved to `./results` directory.
 
 ## Contributors
  - [Karim Iskakov](https://github.com/karfly)
-
